@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm Krishanth, a Computer Science enthusiast on a journey of continuous learning <br><br>I am currently pursuing my degree in Computer Science, where I delve into a diverse range of subjects, from algorithms to software engineering. The academic environment fuels my curiosity and provides a solid foundation for my technological endeavors.<br><br>Realtor Clone React 2023<br><br>Excitingly, I am actively contributing to a project called Realtor-clone-react-2023. This involves working with React, a popular JavaScript library, to create a real estate platform clone. <br><br>Mango Leaf Disease Detection<br><br>One of my ongoing projects revolves around leveraging technology to detect diseases in mango leaves. <br><br>
-
+I'm Krishanth, a Computer Science enthusiast on a journey of continuous learning <br><br>I am currently pursuing my degree in Computer Science, where I delve into a diverse range of subjects, from algorithms to software engineering. The academic environment fuels my curiosity and provides a solid foundation for my technological endeavors.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ vinyagamoorthi-krishanth-9371ab257) 
