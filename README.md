@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Krishanth, a Computer Science enthusiast on a journey of continuous learning <br><br>I am currently pursuing my degree in Computer Science, where I delve into a diverse range of subjects, from algorithms to software engineering. The academic environment fuels my curiosity and provides a solid foundation for my technological endeavors.<br><br>
+I am Krishanth, a full-stack developer passionate about creating dynamic, user-focused applications. With a strong foundation in both front-end and back-end technologies, I am dedicated to delivering innovative and scalable solutions. I constantly expand my skills by exploring new technologies and AI advancements to enhance my projects. <br><br>
 
 
 
